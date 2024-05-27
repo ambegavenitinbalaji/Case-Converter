@@ -30,7 +30,7 @@ TextTransformer is a sleek and user-friendly web application designed to help us
    
 ### `Getting Started`
 
-1. Visit the CaseConverterPro website.
+1. Visit the TextTransformer website.
 2. Enter or paste your text into the input area.
 3. Choose the desired case conversion option.
 4. Watch your text transform in real-time.
